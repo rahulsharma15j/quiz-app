@@ -1,0 +1,29 @@
+1 The full form of CSS is:
+Cascading Style Sheets
+Coloured Special Sheets
+Color and Style Sheets
+None of the above
+
+2 How can we change the background color of an element?
+background-color
+color
+Both A and B
+None of the above
+
+3 How can we change the text color of an element?
+background-color
+color
+Both A and B
+None of the above
+
+4 In how many ways can CSS be written in?
+1
+2
+3
+4
+
+5. Can negative values be allowed in padding property?
+Yes 
+No
+Depends on property
+None of the above
